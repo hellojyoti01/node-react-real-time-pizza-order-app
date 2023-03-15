@@ -72,25 +72,10 @@ pnpm run start
 
 ## Author
 
-👤 **Sumanta Kabiraj**
+👤 **Jyoti Prakash Panigrahi**
 
-- Website: https://sumantakabiraj.com
-- Twitter: [@infysumanta](https://twitter.com/infysumanta)
-- Github: [@infysumanta](https://github.com/infysumanta)
-- LinkedIn: [@sumanta-kabiraj](https://linkedin.com/in/sumanta-kabiraj)
+- Website: https://hellojyoti01.github.io/portfolio_website/
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
-
-Feel free to check [issues page](https://github.com/infysumanta/node-react-real-time-pizza-order-app/issues).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-Copyright © 2023 [Sumanta Kabiraj](https://github.com/infysumanta).
-
-This project is [ISC](https://github.com/infysumanta/node-react-real-time-pizza-order-app/blob/master/LICENSE) licensed.
